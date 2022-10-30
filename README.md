@@ -13,8 +13,6 @@
 - Tolerar
 - Respetar
 - Incluir
-- Tolerar
-- Respetar
 
 
 ### 👥 Únete a nosotros!
