@@ -18,6 +18,6 @@
 ### 👥 Únete a nosotros!
 
 ###### Contacto: info@cosmiccodingcommunityclub.com
-###### Inscripción: [hazte socio gratis](https://cosmiccodingcommunityclub.m-pages.com/inscripciones/hazte-socio-gratis)
+###### Inscripción: [hazte socio gratis](https://mailchi.mp/091628f27041/hazte-socio-gratis)
 
 
