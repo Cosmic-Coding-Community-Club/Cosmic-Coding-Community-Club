@@ -6,8 +6,8 @@
 
 
 ### Nuestros valores:
-- Compartir
 - Aprender
+- Compatir
 - Enseñar
 - Colaborar
 - Tolerar
