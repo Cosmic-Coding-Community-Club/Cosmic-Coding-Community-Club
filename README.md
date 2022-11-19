@@ -21,6 +21,6 @@
 ###### Inscripción: [Únete a nosotros GRATIS](https://mailchi.mp/091628f27041/hazte-socio-gratis)
 
 ### Nuestros repositorios
-[Cosmic Repositories](https://github.com/Cosmic-Coding-Community-Club)
+[Cosmic Repositories](https://github.com/Cosmic-Coding-Community-Club?tab=repositories)
 
 
